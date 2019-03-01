@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/hashicorp/go-uuid"
+	"github.com/Beeketing/go-uuid"
 )
 
 func CopyTree(t *Tree) *Tree {

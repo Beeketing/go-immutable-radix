@@ -18,7 +18,7 @@ For a mutable variant, see [go-radix](https://github.com/armon/go-radix).
 Documentation
 =============
 
-The full documentation is available on [Godoc](http://godoc.org/github.com/hashicorp/go-immutable-radix).
+The full documentation is available on [Godoc](http://godoc.org/github.com/Beeketing/go-immutable-radix).
 
 Example
 =======
